@@ -148,6 +148,16 @@
     padding-left: auto;
     color: black;
   }
+  
+  .navbar {
+    background-color: black !important;
+}
+.navbar-brand {
+    color: white !important;
+}
+.nav-link {
+    color: white !important;
+}
   @media only screen and (max-width: 600px) {
     .container {
         width: 100%;
